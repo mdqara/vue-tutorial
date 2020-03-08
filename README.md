@@ -29,3 +29,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# vue-tutorial"  git init git add README.md git commit -m "first commit" git remote add origin git@github.com:MDCR55/vue-tutorial.git git push -u origin master
 "# vue-tutorial" 
+"# vue-tutorial"  git init git add README.md git commit -m "first commit" git remote add origin git@github.com:MDCR55/vue-tutorial.git git push -u origin master
+"# vue-tutorial" 
