@@ -9,7 +9,15 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "../scss/main.scss";
 import "normalize.css";
 
+import "../filters"; //Global filters
+
 Vue.config.productionTip = false;
+
+Vue.directive("bold", {
+    bind: function(el) {
+        el.style.fontWeight = "bold";
+    }
+});
 
 new Vue({
     router,
