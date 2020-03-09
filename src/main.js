@@ -9,7 +9,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "../scss/main.scss";
 import "normalize.css";
 
-
 Vue.config.productionTip = false;
 
 new Vue({
